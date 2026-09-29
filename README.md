@@ -4,13 +4,11 @@
 
 ### W1
 
-Write your W1 activity Devlog here.  hello world
+it become a second person like game, camera no longer follow the cat, because camera are not related with cat.
 
 ### W2
 
-Create future Devlog sub-headers with the three # symbols, then write your Devlogs below them.
-
-## Open-Source Assets
+https://luciusproduction.itch.io/luciuss-gdim31-first-workOpen-Source Assets
 
 ### W1
 
