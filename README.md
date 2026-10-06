@@ -6,9 +6,15 @@
 
 it become a second person like game, camera no longer follow the cat, because camera are not related with cat.
 
+https://luciusproduction.itch.io/luciuss-gdim31-first-workOpen-Source Assets
+
 ### W2
 
-https://luciusproduction.itch.io/luciuss-gdim31-first-workOpen-Source Assets
+1/ because r, g, b, are the like double in java, not an integer, not true or false;
+
+2/ Because there is no possibility that player or anyone get a half bounce;
+
+3/ forgot to add ";", the easiest way to make the code didn't work;
 
 ### W1
 
