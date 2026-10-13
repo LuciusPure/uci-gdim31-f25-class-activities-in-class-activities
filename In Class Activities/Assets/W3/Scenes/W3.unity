@@ -283,7 +283,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BallW3
   ballRenderer: {fileID: 109617550}
   _rigidbody: {fileID: 109617549}
-  _speedMultiplier: 1.5
+  _speedMultiplier: 1.1
   _speedThreshold: 10
 --- !u!114 &109617547
 MonoBehaviour:
@@ -1170,8 +1170,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.60200006, y: 0}
   m_AnchorMax: {x: 1, y: 0.09}
-  m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 0, y: -0.0000038146973}
+  m_AnchoredPosition: {x: 0.000061035156, y: 12.7509}
+  m_SizeDelta: {x: 0, y: 25.5018}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &980115520
 MonoBehaviour:
@@ -1376,7 +1376,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BallW3
   ballRenderer: {fileID: 1004149292}
   _rigidbody: {fileID: 1004149291}
-  _speedMultiplier: 1.5
+  _speedMultiplier: 1.1
   _speedThreshold: 10
 --- !u!114 &1004149289
 MonoBehaviour:
@@ -1567,7 +1567,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::BallW3
   ballRenderer: {fileID: 1219721250}
   _rigidbody: {fileID: 1219721249}
-  _speedMultiplier: 1.5
+  _speedMultiplier: 1.1
   _speedThreshold: 10
 --- !u!114 &1219721247
 MonoBehaviour:
@@ -2773,7 +2773,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.60200006, y: 0.09}
   m_AnchorMax: {x: 1, y: 0.20666668}
-  m_AnchoredPosition: {x: 0, y: -0.87809753}
+  m_AnchoredPosition: {x: 0, y: -0.8781128}
   m_SizeDelta: {x: 0, y: -1.7562}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1949470243
