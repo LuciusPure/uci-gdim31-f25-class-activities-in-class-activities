@@ -32,7 +32,7 @@ Activity1
 
 Activity2
 
-1 class is a item which can shift a bread into a cake, and, components is the cake itself, member 	variables are the color of the cake, the size, the  taste of the cake, methods are what cakes can do, if it can choke someone or if it can be tasty.
+1 class is a item which can shift a bread into a cake, and, components is the cake itself, member variables are the color of the cake, the size, the  taste of the cake, methods are what cakes can do, if it can choke someone or if it can be tasty.
 
 
 
