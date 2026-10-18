@@ -24,7 +24,7 @@ Activity1
 
 1;String friendResponce
 
-2;float  sanLevel/ or void, it return nothing	
+2;float  sanLevel/ or void, it return nothing
 
 3;boolean didHit
 
@@ -36,9 +36,13 @@ Activity2
 
 
 
+
+
+
+
 devlog3
 
-because the brightness \*1.5 each times, which make the number which represent color became greater and greater, if it is larger than 1, it is so bright. 
+because the brightness \*1.5 each times, which make the number which represent color became greater and greater, if it is larger than 1, it is so bright.
 
 ### W1
 
