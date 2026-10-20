@@ -44,6 +44,24 @@ devlog3
 
 because the brightness \*1.5 each times, which make the number which represent color became greater and greater, if it is larger than 1, it is so bright.
 
+
+
+
+
+W4
+devlog
+---
+Table #7
+##### 1, the cat after collide with then ball, fall upside down, the reason is we didn't add the freeze rotation, after the collide, the cat start to spin.
+
+##### 
+
+2, the cat's collision box is too big, the ball just be kicked away from thousands meters away. We smaller the collision of the cat, problem solved.
+
+---
+
+
+
 ### W1
 
 * Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727
