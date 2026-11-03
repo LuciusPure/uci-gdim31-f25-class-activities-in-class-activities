@@ -44,10 +44,23 @@ public class CatW5 : MonoBehaviour
         // MULTIPLY one of your vectors with a certain value to do this. >:)
 
         Vector3 translation = Vector3.zero;
-        
 
+        if (Input.GetKey(KeyCode.W))
+        {
+            translation = Vector3.forward * _moveSpeed * Time.deltaTime;
+        }
+        else if (Input.GetKey(KeyCode.S)) {
+            translation = Vector3.back * _moveSpeed * Time.deltaTime;
+        }
 
+        if (_flipWSControls) {
+            translation *= -1;
+        }
+
+        transform.Translate(translation);
         // STEP 1 & 2 ---------------------------------------------------------
+
+
 
         float rotation = Input.GetAxis("Horizontal") * _turnSpeed * Time.deltaTime;
         transform.Rotate(0, rotation, 0);

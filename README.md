@@ -60,6 +60,12 @@ Table #7
 
 ---
 
+W5
+1 I should use Start() because the deer need to know where it goes when the game starts, and only need it once, I cant use vector3 so I might need to use transform, I think the reason is we need it to store the vector of the gameobject, so I can move it,
+I need to use serializefield
+I need a code which auto make the deer move to the mushroom, it should not be able to see in the inspector
+I think I don;t need update, the mushroom won't move
+
 
 
 ### W1
