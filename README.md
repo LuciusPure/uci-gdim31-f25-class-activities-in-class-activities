@@ -67,7 +67,13 @@ I need a code which auto make the deer move to the mushroom, it should not be ab
 I think I don;t need update, the mushroom won't move
 
 
+W7
+https://docs.google.com/document/d/1crDX6_ljdbrT8OOdQbNwN7QxS_CrQY8VUW1fGK32XYQ/edit?tab=t.0
 
+2
+use _speed, float, _target, transform, _isChasing,bool, using update method, startchasing and stopchasing 
+
+use startchasing to store target, stop to stop, update to switch the bats on
 ### W1
 
 * Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727
