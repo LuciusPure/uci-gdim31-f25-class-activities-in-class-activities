@@ -76,6 +76,14 @@ use _speed, float, _target, transform, _isChasing,bool, using update method, sta
 use startchasing to store target, stop to stop, update to switch the bats on
 ### W1
 
+
+W8
+1, step 2 wrong because the line was the world forward direction, not the player control's muskrat's forward, when pressing w, it will move it toward the world z direction instead of the front which player facing, by fixing it, change position to translate, works on the muskrat's own forward 
+
+
+
+
+
 * Animals: https://assetstore.unity.com/packages/3d/characters/animals/animals-free-animated-low-poly-3d-models-260727
 * Low-poly environment: https://assetstore.unity.com/packages/3d/environments/landscapes/low-poly-simple-nature-pack-162153
 
